@@ -1,0 +1,20 @@
+.sidebar .nav-item .nav-link[data-toggle=collapse]::after{
+    content: "" !important;
+}
+
+.sidebar{
+background: #0575E6;
+}
+
+.navbar{
+    background:#0575E6;
+}
+
+.card-header{
+    background: #0575E6;
+}
+
+.margen{
+    border: solid #0575E6;
+    padding: 1em;
+}
